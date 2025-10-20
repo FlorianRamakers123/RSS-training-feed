@@ -1,1 +1,2 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Training Feed</title><link>https://florianramakers123.github.io/RSS-training-feed/rss.xml</link><description>Updates from VSC cluster</description><language>en</language><lastBuildDate>Mon, 20 Oct 2025 15:35:02 -0000</lastBuildDate><item><title>PyTorch Training Feed Test</title><link>https://florianramakers123.github.io/RSS-training-feed/</link><description>This is a test</description><pubDate>Mon, 20 Oct 2025 15:35:02 -0000</pubDate></item></channel></rss>
